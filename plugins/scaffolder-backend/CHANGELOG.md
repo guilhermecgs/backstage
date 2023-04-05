@@ -1,5 +1,23 @@
 # @backstage/plugin-scaffolder-backend
 
+## 1.13.0-next.3
+
+### Minor Changes
+
+- d7c8c222e25: Allow for a commit message to differ from the PR title when publishing a GitHub pull request.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-backend@1.9.0-next.3
+  - @backstage/catalog-model@1.3.0-next.0
+  - @backstage/catalog-client@1.4.1-next.1
+  - @backstage/plugin-catalog-common@1.0.13-next.1
+  - @backstage/plugin-catalog-node@1.3.5-next.3
+  - @backstage/plugin-scaffolder-common@1.2.7-next.2
+  - @backstage/plugin-scaffolder-node@0.1.2-next.3
+  - @backstage/config@1.0.7
+
 ## 1.13.0-next.2
 
 ### Patch Changes

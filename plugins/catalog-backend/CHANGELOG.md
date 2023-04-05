@@ -1,5 +1,22 @@
 # @backstage/plugin-catalog-backend
 
+## 1.9.0-next.3
+
+### Minor Changes
+
+- 92a4590fc3a: Add monorepo support to CodeOwnersProccesor.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-model@1.3.0-next.0
+  - @backstage/catalog-client@1.4.1-next.1
+  - @backstage/plugin-catalog-common@1.0.13-next.1
+  - @backstage/plugin-catalog-node@1.3.5-next.3
+  - @backstage/plugin-scaffolder-common@1.2.7-next.2
+  - @backstage/plugin-search-backend-module-catalog@0.1.0-next.2
+  - @backstage/config@1.0.7
+
 ## 1.8.1-next.2
 
 ### Patch Changes

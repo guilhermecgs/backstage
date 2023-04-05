@@ -1,5 +1,36 @@
 # example-backend
 
+## 0.2.82-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-kubernetes-backend@0.10.0-next.3
+  - @backstage/plugin-auth-backend@0.18.2-next.3
+  - @backstage/plugin-search-backend-module-elasticsearch@1.2.0-next.3
+  - @backstage/plugin-scaffolder-backend@1.13.0-next.3
+  - @backstage/plugin-catalog-backend@1.9.0-next.3
+  - @backstage/catalog-model@1.3.0-next.0
+  - @backstage/plugin-events-backend@0.2.5-next.3
+  - example-app@0.2.82-next.3
+  - @backstage/plugin-adr-backend@0.3.2-next.3
+  - @backstage/plugin-scaffolder-backend-module-rails@0.4.12-next.3
+  - @backstage/catalog-client@1.4.1-next.1
+  - @backstage/plugin-badges-backend@0.1.38-next.3
+  - @backstage/plugin-catalog-node@1.3.5-next.3
+  - @backstage/plugin-code-coverage-backend@0.2.10-next.3
+  - @backstage/plugin-entity-feedback-backend@0.1.2-next.3
+  - @backstage/plugin-jenkins-backend@0.1.34-next.3
+  - @backstage/plugin-kafka-backend@0.2.37-next.3
+  - @backstage/plugin-lighthouse-backend@0.1.2-next.3
+  - @backstage/plugin-linguist-backend@0.2.1-next.3
+  - @backstage/plugin-playlist-backend@0.2.7-next.3
+  - @backstage/plugin-tech-insights-backend@0.5.10-next.3
+  - @backstage/plugin-techdocs-backend@1.6.1-next.3
+  - @backstage/plugin-todo-backend@0.1.41-next.3
+  - @backstage/config@1.0.7
+  - @backstage/plugin-graphql-backend@0.1.34-next.3
+
 ## 0.2.82-next.2
 
 ### Patch Changes

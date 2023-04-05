@@ -1,5 +1,24 @@
 # @backstage/plugin-kubernetes
 
+## 0.8.0-next.3
+
+### Minor Changes
+
+- 754be7c5106: refactor kubernetes error detection to make way for proposed solutions
+
+  **BREAKING**: `DetectedError` now appears once per Kubernetes resource per error instead of for all resources which have that error, `namespace` and `name` fields are now in `sourceRef` object `message` is now a `string` instead of a `string[]`. `ErrorDetectableKind` has been removed.
+
+### Patch Changes
+
+- c159ab64a60: `KubernetesBackendClient` now requires a `kubernetesAuthProvidersApi` value to be provided. `KubernetesApi` interface now has a proxy method requirement.
+- Updated dependencies
+  - @backstage/catalog-model@1.3.0-next.0
+  - @backstage/core-components@0.12.6-next.2
+  - @backstage/core-plugin-api@1.5.1-next.1
+  - @backstage/plugin-catalog-react@1.4.1-next.3
+  - @backstage/plugin-kubernetes-common@0.6.2-next.2
+  - @backstage/config@1.0.7
+
 ## 0.7.10-next.2
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @backstage/plugin-search-backend-module-elasticsearch
 
+## 1.2.0-next.3
+
+### Patch Changes
+
+- 104b6b19487: fix ElasticSearch throwing error when index is missing
+- Updated dependencies
+  - @backstage/config@1.0.7
+
 ## 1.2.0-next.2
 
 ### Patch Changes

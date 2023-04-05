@@ -1,5 +1,16 @@
 # @backstage/catalog-model
 
+## 1.3.0-next.0
+
+### Minor Changes
+
+- be9c4228073: Modified the regex for DNS label validation to support IDN domains
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/config@1.0.7
+
 ## 1.2.1
 
 ### Patch Changes
